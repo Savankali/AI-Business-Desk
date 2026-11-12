@@ -1,0 +1,6 @@
+{
+  "name": "AI Business Desk",
+  "description": "AI-powered business desk for Indian micro and small businesses to manage invoices, customers, payments, and records with real clarity and less paperwork.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
